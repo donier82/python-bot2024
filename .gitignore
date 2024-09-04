@@ -1,0 +1,5 @@
+venv/
+config.py
+users.db
+news.txt
+db.py
